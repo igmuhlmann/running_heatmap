@@ -5,7 +5,7 @@ import os
 
 # Parameter
 # Change Center Map to desigred Values
-center_map = [52.5211, 13.4133];
+center_map = [47.7304, 9.34965];
 
 trackdata = {};
 trackdata["color"] = "cornsilk"
